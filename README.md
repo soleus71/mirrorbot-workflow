@@ -1,6 +1,6 @@
 # mirrorbot-workflow
 
-[![MirrorBot Environment](https://github.com/techharz/mirrorbot-workflow/actions/workflows/mirror-bot.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/techharz/mirrorbot-workflow/actions/workflows/mirror-bot.yml)
+[![MirrorBot Environment](https://github.com/techharz/mirrorbot-workflow/actions/workflows/mirror-bot.yml/badge.svg?branch=main)](https://github.com/techharz/mirrorbot-workflow/actions/workflows/mirror-bot.yml)
 
 You can use [this repo](https://github.com/lzzy12/python-aria-mirror-bot) as a template
 
